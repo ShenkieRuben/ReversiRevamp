@@ -1,0 +1,9 @@
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\bin\Debug\ReversiRevamp.exe.config
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\bin\Debug\ReversiRevamp.exe
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\bin\Debug\ReversiRevamp.pdb
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.reversiForm.resources
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.Properties.Resources.resources
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.csproj.GenerateResource.Cache
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.exe
+C:\Users\Ruben\Desktop\ReversiRevamp\ReversiRevamp\obj\Debug\ReversiRevamp.pdb
